@@ -6,7 +6,7 @@ function Header() {
    const [isOpen, setIsOpen] = useState(false);
    return(
    <>
-   <nav className="">
+   <nav className=" bg-gray-700">
         <div className="max-w-7xl px-4 sm:px-6 lg:px-8 shadow-md lg:shadow-none xl:shadow-none">
           <div className="flex justify-between h-16">
             <div className="flex items-center">
